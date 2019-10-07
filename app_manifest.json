@@ -1,0 +1,15 @@
+{
+  "SchemaVersion": 1,
+  "Name" : "OledC",
+  "ComponentId" : "85900387-7ebd-422a-ab8f-be4fdb745070",
+  "EntryPoint": "/bin/app",
+  "CmdArgs": [],
+  "Capabilities": {
+    "AllowedConnections": [],
+    "Gpio": [ 0, 1, 2, 9, 16, 17, 42, 43 ],
+    "SpiMaster": [ "ISU1" ],
+    "Uart": [],
+    "WifiConfig": false
+  },
+  "ApplicationType":"Default"
+}

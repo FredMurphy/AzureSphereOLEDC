@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OledC", "OledC.vcxproj", "{A8F2A588-9782-4865-A950-5DEA1E5600BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Release|ARM = Release|ARM
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8F2A588-9782-4865-A950-5DEA1E5600BF}.Debug|ARM.ActiveCfg = Debug|ARM
+		{A8F2A588-9782-4865-A950-5DEA1E5600BF}.Debug|ARM.Build.0 = Debug|ARM
+		{A8F2A588-9782-4865-A950-5DEA1E5600BF}.Release|ARM.ActiveCfg = Release|ARM
+		{A8F2A588-9782-4865-A950-5DEA1E5600BF}.Release|ARM.Build.0 = Release|ARM
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08CD0586-22F9-4D6C-AA76-6DE337F5BF26}
+	EndGlobalSection
+EndGlobal
